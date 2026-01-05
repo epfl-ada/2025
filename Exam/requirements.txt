@@ -1,0 +1,26 @@
+# Install the following packages either with `conda` or `uv`. If you use `uv`, run:
+# uv venv --python 3.13
+# source .venv/bin/activate
+# uv pip install -r requirements.txt
+
+# --- The Interface ---
+jupyterlab==4.5.1
+notebook==7.5.1
+ipykernel==7.1.0
+
+# --- The Libraries Imported in Your Code ---
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+statsmodels==0.14.6
+scikit-learn==1.8.0
+networkx==3.6.1
+
+# --- Visualization ---
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# --- Essential Dependencies ---
+patsy==1.0.2         # For Statsmodels formulas
+joblib==1.5.3        # For Scikit-learn
+requests==2.32.5     # Safe to keep for data fetching
