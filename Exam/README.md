@@ -22,6 +22,7 @@ We strongly recommend that you set up this environment and use it for the exam. 
 **Exam date:** Tuesday, January 13th, 2026   
 **Exam start:** 16:15 (CET/UTC+1h)   
 **Exam end:** 18:15 (CET/UTC+1h)   
+**Regarding MCQ component:** You can submit the MCQ component after 45 minutes. To do so, please raise your hand and hand the sheet to the TA. However, you cannot open your laptop until we collect all the MCQ sheets in the room. The coding component will be released at 16:10. Note that you will be given an additional 15 minutes after 18:15 to submit your coding component.
 
 ## Seats
 
