@@ -84,4 +84,4 @@ To ensure efficiency and fairness, we will not reply to individual question dire
 12. Remember, this is not a homework assignment -- no teamwork allowed! Any communication with others, including forum, chat, email, etc., is strictly forbidden.
 13. You can use Stack Overflow but you are not allowed to post questions on it, just to read what is already there.
 14. You can use lecture notes, lab notebooks and the internet to search for information (as long as you are not communicating with others or using AI-powered tools listed above). Additionally, multiple handwritten cheatsheets are allowed.
-15. Please install [this extension](https://chromewebstore.google.com/detail/hide-google-ai-overviews/neibhohkbmfjninidnaoacabkjonbahn?hl=en) to hide Google AI overview.
+15. Please install [this extension](https://chromewebstore.google.com/detail/hide-google-ai-overviews/neibhohkbmfjninidnaoacabkjonbahn?hl=en) to hide Google AI overview. Or, you can use a different browser, e.g., [brave.com](https://brave.com) and toggle the setting “AI answers’ to off
