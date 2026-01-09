@@ -40,7 +40,7 @@ The seating plan will be published the day before the exam and also put up on th
 * For students **without** an EPFL sciper number:
    * Your file has to be named (in *titlecase*) as "YourFirstName_YourLastName.ipynb". For example, if your first name is 'Abc', and last name is 'Xyz', please name your file as 'Abc_Xyz.ipynb'.   
 * We recommend that you test the dry-run submission at [this dry run submission form](https://forms.gle/bYxSEzTozsfLdQpe8) to ensure that you can submit the exam successfully.
-* If you face any urgent issues with the submission process, send your submission to `TBD`. However, this should be considered as a last resort, and we will penalize students who use this option without a valid reason.
+* If you face any urgent issues with the submission process, send your submission to `shuo.wen@epfl.ch`. However, this should be considered as a last resort, and we will penalize students who use this option without a valid reason.
 
 **A few additional notes**:
 
