@@ -22,6 +22,7 @@ We strongly recommend that you set up this environment and use it for the exam. 
 **Exam date:** Tuesday, January 13th, 2026   
 **Exam start:** 16:15 (CET/UTC+1h)   
 **Exam end:** 18:15 (CET/UTC+1h)   
+**Regarding MCQ component:** You can submit the MCQ component after 45 minutes. To do so, please raise your hand and hand the sheet to the TA. However, you cannot open your laptop until we collect all the MCQ sheets in the room. The coding component will be released at 16:10. Note that you will be given an additional 15 minutes after 18:15 to submit your coding component.
 
 ## Seats
 
@@ -31,7 +32,7 @@ The seating plan will be published the day before the exam and also put up on th
 
 ## Submission
 
-* You need to submit your solutions in the form of a single Jupyter Notebook (`.ipynb` file) to [(TBD) this Google form (will be activated on the day of exam)](#) before the end of the exam. **Late submissions will not be accepted.** 
+* You need to submit your solutions in the form of a single Jupyter Notebook (`.ipynb` file) to [this Google form (will be activated on the day of exam)](https://forms.gle/uS3ZtpESep4KfbZc6) before the end of the exam. **Late submissions will not be accepted.** 
 * After submission, you can correct 'typos' in your name using the "edit response" option, however, the uploaded 'ipynb' file cannot be modified. If you need to modify the ‘ipynb’ file, please create a new submission using the "Submit another response" option.
 * It's allowed to upload submission multiple times (using the "Submit another response" option) before the deadline at 18:15. So, it is recommended to submit a partial solution during the exam and then overwrite it with the final one before the deadline. We will only consider the **latest** submission before the deadline.
 * For students **with** an EPFL sciper number:
@@ -39,7 +40,7 @@ The seating plan will be published the day before the exam and also put up on th
 * For students **without** an EPFL sciper number:
    * Your file has to be named (in *titlecase*) as "YourFirstName_YourLastName.ipynb". For example, if your first name is 'Abc', and last name is 'Xyz', please name your file as 'Abc_Xyz.ipynb'.   
 * We recommend that you test the dry-run submission at [this dry run submission form](https://forms.gle/bYxSEzTozsfLdQpe8) to ensure that you can submit the exam successfully.
-* If you face any urgent issues with the submission process, send your submission to `TBD`. However, this should be considered as a last resort, and we will penalize students who use this option without a valid reason.
+* If you face any urgent issues with the submission process, send your submission to `shuo.wen@epfl.ch`. However, this should be considered as a last resort, and we will penalize students who use this option without a valid reason.
 
 **A few additional notes**:
 
@@ -83,3 +84,4 @@ To ensure efficiency and fairness, we will not reply to individual question dire
 12. Remember, this is not a homework assignment -- no teamwork allowed! Any communication with others, including forum, chat, email, etc., is strictly forbidden.
 13. You can use Stack Overflow but you are not allowed to post questions on it, just to read what is already there.
 14. You can use lecture notes, lab notebooks and the internet to search for information (as long as you are not communicating with others or using AI-powered tools listed above). Additionally, multiple handwritten cheatsheets are allowed.
+15. Please install [this extension](https://chromewebstore.google.com/detail/hide-google-ai-overviews/neibhohkbmfjninidnaoacabkjonbahn?hl=en) to hide Google AI overview. Or, you can use a different browser, e.g., [brave.com](https://brave.com) and toggle the setting “AI answers’ to off
