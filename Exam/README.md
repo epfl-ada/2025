@@ -32,7 +32,7 @@ The seating plan will be published the day before the exam and also put up on th
 
 ## Submission
 
-* You need to submit your solutions in the form of a single Jupyter Notebook (`.ipynb` file) to [(TBD) this Google form (will be activated on the day of exam)](#) before the end of the exam. **Late submissions will not be accepted.** 
+* You need to submit your solutions in the form of a single Jupyter Notebook (`.ipynb` file) to [this Google form (will be activated on the day of exam)](https://forms.gle/uS3ZtpESep4KfbZc6) before the end of the exam. **Late submissions will not be accepted.** 
 * After submission, you can correct 'typos' in your name using the "edit response" option, however, the uploaded 'ipynb' file cannot be modified. If you need to modify the ‘ipynb’ file, please create a new submission using the "Submit another response" option.
 * It's allowed to upload submission multiple times (using the "Submit another response" option) before the deadline at 18:15. So, it is recommended to submit a partial solution during the exam and then overwrite it with the final one before the deadline. We will only consider the **latest** submission before the deadline.
 * For students **with** an EPFL sciper number:
